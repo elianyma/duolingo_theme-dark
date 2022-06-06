@@ -133,6 +133,10 @@
         background-repeat: no-repeat;
         padding: 33px 0 8px 0;
     }
+	
+    img[src="https://d35aaqx5ub95lt.cloudfront.net/images/leagues/badge_locked.svg"] {
+        filter: brightness(.53) contrast(8) brightness(.9);
+    }
 
     /* nav app mobile */
     ._3rtds {
