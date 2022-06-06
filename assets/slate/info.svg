@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18"><title>info button</title><g transform="translate(-1 -1)" fill="none"><circle stroke="#141f23" stroke-width="2" fill="#AFAFAF" cx="10" cy="10" r="10"/><rect fill="#FFF" x="8.75" y="8.75" width="2.5" height="6.25" rx="1.25"/><rect fill="#FFF" transform="matrix(1 0 0 -1 0 12.5)" x="8.75" y="5" width="2.5" height="2.5" rx="1.25"/></g><style id="stylish-9" class="stylish" type="text/css">@keyframes _2XHXx {
+    0%,62% {
+        background-color: #572c2c;
+        border-color: #ffb2b2;
+        box-shadow: 0 2px 0 #ffb2b2
+    }
+
+    to {
+        background-color: #151e21;
+        border-color: #2e3940;
+        box-shadow: 0 2px 0 #2b343b
+    }
+}
+
+@-webkit-keyframes _2mZnM {
+    0% {
+        background-color: #82d93e;
+        border-color: #a5ed6e
+    }
+
+    to {
+        background-color: #23292b;
+        border-color: #1a2022
+    }
+}
+
+@keyframes _2mZnM {
+    0% {
+        background-color: #82d93e;
+        border-color: #a5ed6e
+    }
+
+    to {
+        background-color: #23292b;
+        border-color: #1a2022
+    }
+}
+
+@-webkit-keyframes xz1TC {
+    0%,to {
+        background-color: #1d2c1b;
+        border-color: #a5ed6e;
+        box-shadow: 0 2px 0 #a5ed6e
+    }
+}
+
+@keyframes xz1TC {
+    0%,to {
+        background-color: #1d2c1b;
+        border-color: #a5ed6e;
+        box-shadow: 0 2px 0 #a5ed6e
+    }
+}</style></svg>
