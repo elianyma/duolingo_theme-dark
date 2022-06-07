@@ -428,6 +428,15 @@
         background-color: rgb(78 96 104);
         border-color: rgb(132, 216, 255);
     }
+	
+    ::-webkit-scrollbar {
+	background: #38464f;
+	width: 12px;
+    }
+
+    ::-webkit-scrollbar-thumb {
+	background: #222c30;
+    }
 
     @keyframes _2XHXx {
         0%,62% {
