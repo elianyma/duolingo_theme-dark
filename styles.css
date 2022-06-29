@@ -19,11 +19,11 @@
     }
 
     ::-webkit-scrollbar-track {
-        background: #303e45; 
+        background: #2C363D; 
     }
  
     ::-webkit-scrollbar-thumb {
-        background: #7ac70c; 
+        background: #7AC70C; 
     }
     
     ::-moz-placeholder {
