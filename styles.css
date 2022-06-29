@@ -14,6 +14,22 @@
         --icon-caret-up: url(https://raw.githubusercontent.com/elianyma/duolingo_theme-dark/d5d4627d8f9b23ac2d8d3c51efdec8c62c2c6288/assets/images/caret-up.svg);
     }
     
+    ::-webkit-scrollbar {
+        width: 10px;
+    }
+
+    ::-webkit-scrollbar-track {
+        background: #f1f1f1; 
+    }
+ 
+    ::-webkit-scrollbar-thumb {
+        background: #7ac70c; 
+    }
+
+    ::-webkit-scrollbar-thumb:hover {
+        background: #303e45; 
+    }
+    
     ::-moz-placeholder {
         color: #afafaf;
     }
